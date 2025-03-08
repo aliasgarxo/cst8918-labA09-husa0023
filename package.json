@@ -1,0 +1,24 @@
+{
+  "name": "cst8918-laba09-husa0023",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliasgarxo/cst8918-labA09-husa0023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliasgarxo/cst8918-labA09-husa0023/issues"
+  },
+  "homepage": "https://github.com/aliasgarxo/cst8918-labA09-husa0023#readme",
+  "description": "",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}

@@ -18,7 +18,7 @@ resource "azurerm_resource_group" "test_rg" {
   location = "East US"
 }
 
-resource "azurerm_storage_account" "test_storage" 
+resource "azurerm_storage_account" "test_storage" {
   name                     = "cst8918laba03"
   resource_group_name      = azurerm_resource_group.test_rg.name
   location                 = azurerm_resource_group.test_rg.location

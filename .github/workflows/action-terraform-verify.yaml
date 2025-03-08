@@ -3,7 +3,6 @@ name: Validate Terraform Format
 on:
   pull_request:
     branches:
-      - main
       - master
 
 permissions:
